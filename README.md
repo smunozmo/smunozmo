@@ -10,8 +10,7 @@ I’m looking for a backend developer position to bring my teamwork experience t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smunozmo&langs_count=8&theme=vision-friendly-dark)](https://github.com/smunozmo)
 
-[![Sebastian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smunozmo&theme=vision-friendly-dark)](https://github.com/smunozmo)
-
+<figure><embed src="https://wakatime.com/share/@b7860a30-3a69-4c81-9313-4836b63170c6/ae201221-4250-4a04-a000-75f58d46cb2a.svg"></embed></figure>
 
 <!--
 **smunozmo/smunozmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
