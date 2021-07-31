@@ -6,7 +6,6 @@ I’m currently studying and developing projects with HTML, SASS, and JavaScript
 
 I’m looking for a backend developer position to bring my teamwork experience to your company and begin a successful journey. Let me know when we can have a 15 minutes call to answer any questions you have.
 
-
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=smunozmo&count_private=true&icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smunozmo&langs_count=8&theme=vision-friendly-dark)](https://github.com/smunozmo)
