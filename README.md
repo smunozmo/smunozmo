@@ -10,9 +10,7 @@ I’m looking for a backend developer position to bring my teamwork experience t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smunozmo&langs_count=8&theme=vision-friendly-dark)](https://github.com/smunozmo)
 
-<a href="">
-  <img align="center" src="@smunozmo&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@smunozmo&compact=True"/>
-</a>
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@smunozmo&theme=dark)]
 
 
 <!--
