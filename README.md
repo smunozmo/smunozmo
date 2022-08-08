@@ -2,9 +2,9 @@
 
 I am Sebastián, before becoming a full-stack developer, I studied engineering for 4 years and worked as a digital marketing specialist building websites for 10 years, during that time I was able to lead and manage many teams and accounts and it was the most rewarding challenge.
 
-I’m currently studying and developing projects with HTML, SASS, and JavaScript with coding partners from around the world, 100% remotely, and meeting every deadline with no delays. It has been hundreds of hours coding with professional standards and reviewers.
+I’m currently working as Code Reviewer at Microverse inc (San Francisco, California) and developing projects with HTML, SASS, JavaScript, React.js, Ruby, Ruby on Rails, and MySQL with coding partners from around the world, 100% remotely, and meeting every deadline with no delays. It has been more than a thousand hours of coding with professional standards and reviewers.
 
-I’m looking for a backend developer position to bring my teamwork experience to your company and begin a successful journey. Let me know when we can have a 15 minutes call to answer any questions you have.
+I’m looking for a Ruby on Rails Developer position to bring my teamwork experience to your company and begin a successful journey. Let me know when we can have a 15 minutes call to answer any questions you have.
 
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=smunozmo&count_private=true&icons=true&theme=vision-friendly-dark)
 
